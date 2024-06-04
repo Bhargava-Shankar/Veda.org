@@ -1,5 +1,3 @@
-import React from 'react'
-import shiva from "../assets/shiva.jpeg";
 import kanchi from "../assets/kanchi.jpg";
 import om from "../assets/om.jpg";
 const Samiphoto = () => {
